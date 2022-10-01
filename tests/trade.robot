@@ -11,7 +11,7 @@ Deve negociar a figurinha Neymar Legend
 
     Do Login
 
-    Search User        legend
-    Select Sticker     Neymar Jr
+    Search User                    legend
+    Select Sticker                 Neymar Jr
     Get In Touch
-    Whatsapp Sticker Message        Neymar Jr
+    Whatsapp Sticker Message       Neymar Jr

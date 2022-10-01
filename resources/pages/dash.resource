@@ -13,15 +13,15 @@ User Logged In
 
 Search User
     [Arguments]        ${target}
-    Fill Text    input[placeholder^=Busque]    ${target}
-    Click        css=button >> text=Buscar
+    Fill Text          input[placeholder^=Busque]    ${target}
+    Click              css=button >> text=Buscar
 
 Select Sticker
     [Arguments]        ${name}
     Click              xpath=//img[@alt="${name}"]/..
 
 Get In Touch
-    Click        css=button >> text=Entrar em contato
+    Click              css=button >> text=Entrar em contato
 
 Whatsapp Sticker Message
     [Arguments]        ${sticker_name}
